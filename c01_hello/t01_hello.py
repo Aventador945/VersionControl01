@@ -2,6 +2,7 @@
 
 def hello():
     """
+    commit 后，修改文件，显示为蓝色
 
     :return:
     """
