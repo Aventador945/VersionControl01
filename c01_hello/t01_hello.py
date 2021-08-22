@@ -2,9 +2,10 @@
 
 def hello():
     """
-    commit 后，修改文件，project view 中文件显示为蓝色
+    commit 后，修改文件，project view 中文件显示为蓝色（蓝色：这一行之前有了，现在作了修改）
 
-    这一行可以删除
+
+    editor 中，绿色表示新添加的行
 
     :return:
     """
