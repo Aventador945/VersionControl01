@@ -12,6 +12,8 @@ def hello():
     添加一行：部分选中并提交
 
     添加一行：02
+
+    添加一行： 在 hot_fix 中
     :return:
     """
     print("hello, this is a test")
