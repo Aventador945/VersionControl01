@@ -8,6 +8,7 @@ def hello():
     editor 中，绿色表示新添加的行
 
 
+    添加一行：部分选中并提交
     :return:
     """
     print("hello, this is a test")
