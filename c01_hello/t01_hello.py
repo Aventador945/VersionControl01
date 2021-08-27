@@ -17,13 +17,24 @@ def hello():
 
     添加一行：再次在 hot_fix 中提交
 
+    添加一行：03
+
+    添加一行到暂存区：04
+
+    添加一行到暂存区: 05
+
+    添加一行到暂存区：06
+
+    添加一行到暂存区：07
+
+    添加一行到暂存区
+
     :return:
     """
     print("hello, this is a test")
     print("wow, I forgot python")
 
     print("ok, you can delete")
-
 
 
 hello()
